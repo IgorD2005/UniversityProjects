@@ -1,0 +1,242 @@
+[
+    {
+        "question": "You wear it on your foot",
+        "answer": "shoe",
+        "difficulty": "Easy",
+        "category": "en"
+    },
+    {
+        "question": "Large building with strong walls",
+        "answer": "castle",
+        "difficulty": "Medium",
+        "category": "en"
+    },
+    {
+        "question": "First element on the periodic table",
+        "answer": "hydrogen",
+        "difficulty": "Hard",
+        "category": "en"
+    },
+    {
+        "question": "Narzędzie do pisania po tablicy",
+        "answer": "kreda",
+        "difficulty": "Medium",
+        "category": "pl"
+    },
+    {
+        "question": "Orange root vegetable",
+        "answer": "carrot",
+        "difficulty": "Easy",
+        "category": "en"
+    },
+    {
+        "question": "Płynąca woda",
+        "answer": "rzeka",
+        "difficulty": "Easy",
+        "category": "pl"
+    },
+    {
+        "question": "Insects that make honey",
+        "answer": "bees",
+        "difficulty": "Medium",
+        "category": "en"
+    },
+    {
+        "question": "Synonim słowa szybki",
+        "answer": "prędki",
+        "difficulty": "Medium",
+        "category": "pl"
+    },
+    {
+        "question": "Dyscyplina matematyki z granicami",
+        "answer": "analiza",
+        "difficulty": "Hard",
+        "category": "pl"
+    },
+    {
+        "question": "Large stream of water",
+        "answer": "river",
+        "difficulty": "Easy",
+        "category": "en"
+    },
+    {
+        "question": "Pomarańczowe warzywo",
+        "answer": "marchewka",
+        "difficulty": "Easy",
+        "category": "pl"
+    },
+    {
+        "question": "Miejsce zamieszkania królów",
+        "answer": "zamek",
+        "difficulty": "Medium",
+        "category": "pl"
+    },
+    {
+        "question": "Tool used to write on a blackboard",
+        "answer": "chalk",
+        "difficulty": "Medium",
+        "category": "en"
+    },
+    {
+        "question": "Nosimy je na stopach",
+        "answer": "buty",
+        "difficulty": "Easy",
+        "category": "pl"
+    },
+    {
+        "question": "Urządzenie do dzwonienia",
+        "answer": "telefon",
+        "difficulty": "Medium",
+        "category": "pl"
+    },
+    {
+        "question": "Wzniesienie terenu",
+        "answer": "góra",
+        "difficulty": "Medium",
+        "category": "pl"
+    },
+    {
+        "question": "Big natural elevation of the earth's surface",
+        "answer": "mountain",
+        "difficulty": "Medium",
+        "category": "en"
+    },
+    {
+        "question": "It purrs and likes milk",
+        "answer": "cat",
+        "difficulty": "Easy",
+        "category": "en"
+    },
+    {
+        "question": "Ptak narodowy Polski",
+        "answer": "orzeł",
+        "difficulty": "Hard",
+        "category": "pl"
+    },
+    {
+        "question": "Słodki, złoty produkt pszczół",
+        "answer": "miód",
+        "difficulty": "Easy",
+        "category": "pl"
+    },
+    {
+        "question": "It barks and is man's best friend",
+        "answer": "dog",
+        "difficulty": "Easy",
+        "category": "en"
+    },
+    {
+        "question": "Synonym of quick",
+        "answer": "fast",
+        "difficulty": "Medium",
+        "category": "en"
+    },
+    {
+        "question": "Język urzędowy Austrii",
+        "answer": "niemiecki",
+        "difficulty": "Hard",
+        "category": "pl"
+    },
+    {
+        "question": "Pierwszy król Polski",
+        "answer": "mieszko",
+        "difficulty": "Hard",
+        "category": "pl"
+    },
+    {
+        "question": "Czerwony owoc z ogonkiem",
+        "answer": "wiśnia",
+        "difficulty": "Easy",
+        "category": "pl"
+    },
+    {
+        "question": "Red fruit often associated with sin",
+        "answer": "apple",
+        "difficulty": "Easy",
+        "category": "en"
+    },
+    {
+        "question": "Miasto Syrenki",
+        "answer": "warszawa",
+        "difficulty": "Medium",
+        "category": "pl"
+    },
+    {
+        "question": "Zielona część drzewa",
+        "answer": "liść",
+        "difficulty": "Medium",
+        "category": "pl"
+    },
+    {
+        "question": "Device to call people",
+        "answer": "phone",
+        "difficulty": "Medium",
+        "category": "en"
+    },
+    {
+        "question": "Large bird of prey",
+        "answer": "eagle",
+        "difficulty": "Hard",
+        "category": "en"
+    },
+    {
+        "question": "Large carnivorous dinosaur",
+        "answer": "tyrannosaurus",
+        "difficulty": "Hard",
+        "category": "en"
+    },
+    {
+        "question": "Yellow fruit monkeys love",
+        "answer": "banana",
+        "difficulty": "Easy",
+        "category": "en"
+    },
+    {
+        "question": "Smok z Krakowa",
+        "answer": "smok",
+        "difficulty": "Hard",
+        "category": "pl"
+    },
+    {
+        "question": "Zielone warzywo na sałatkę",
+        "answer": "ogórek",
+        "difficulty": "Easy",
+        "category": "pl"
+    },
+    {
+        "question": "It tells the time",
+        "answer": "clock",
+        "difficulty": "Medium",
+        "category": "en"
+    },
+    {
+        "question": "Smallest unit of matter",
+        "answer": "atom",
+        "difficulty": "Hard",
+        "category": "en"
+    },
+    {
+        "question": "Ciało niebieskie krążące wokół planety",
+        "answer": "księżyc",
+        "difficulty": "Hard",
+        "category": "pl"
+    },
+    {
+        "question": "Branch of mathematics involving limits",
+        "answer": "Calculus",
+        "difficulty": "Hard",
+        "category": "en"
+    },
+    {
+        "question": "Language spoken in Brazil",
+        "answer": "portuguese",
+        "difficulty": "Hard",
+        "category": "en"
+    },
+    {
+        "question": "Zwierzę, które szczeka",
+        "answer": "pies",
+        "difficulty": "Easy",
+        "category": "pl"
+    }
+]

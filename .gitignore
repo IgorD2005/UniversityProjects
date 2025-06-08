@@ -1,16 +1,12 @@
-# Python
 __pycache__/
 *.py[cod]
 *.sqlite3
 *.db
 
-# Virtual environments
 .venv/
 env/
 
-# IDE
 .idea/
 *.iml
 
-# Others
 *.pdf

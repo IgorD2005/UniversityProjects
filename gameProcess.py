@@ -80,11 +80,9 @@ class CrosswordGame:
         self.game_window = tk.Frame(self.parent, bg=self.COLOR_BG_GAME)
         self.game_window.pack(fill="both", expand=True)
 
-        # --- Top Info Panel ---
         self.info_frame = tk.Frame(self.game_window, bg=self.COLOR_BG_GAME, bd=2, relief="groove")
         self.info_frame.pack(fill=tk.X, padx=20, pady=20)
 
-        # Timer Label (For Time mode)
         if self.mode == "For Time":
             self.time_left = self.time_limits.get(self.difficulty, 300)
             self.timer_label = tk.Label(self.info_frame,
